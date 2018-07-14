@@ -1,4 +1,3 @@
-import argparse
 import json
 import itertools
 import re
